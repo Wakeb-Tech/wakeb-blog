@@ -1,0 +1,52 @@
+body {direction: rtl;text-align: right;}
+
+.navbar .navbar__toggler.open-menu {right: auto;left: 15px;}
+
+.menu-list ul {
+  padding-left: 0;
+  padding-right: 3rem;
+  text-align: right;
+}
+
+.menu-list ul li .sub-menu {
+  position: absolute;
+  left: auto;
+  right: 10rem;
+}
+
+.menu-content i.fa-chevron-right {
+  -webkit-transform: rotate(180deg) translateY(2px);
+  transform: rotate(180deg) translateY(2px);
+}
+
+.header .header__head h1::after {left: auto;right: 0;}
+
+.navbar .navbar__toggler .bar.bar2 {margin-left: 2.5px;margin-right: auto;}
+
+.blog__posts--container .pr-sm-3 {padding-right: 0 !important;}
+
+.selectMultiple > ul {z-index: 100;}
+
+.selectMultiple > div .arrow {right: auto;left: 3px;}
+
+.blog__popular .search__post i.fa-search {
+  position: absolute;
+  left: 0px;
+  z-index: 99;
+}
+
+.blog__popular .search__post .form-control {
+  padding: .375rem 1.5rem;
+  padding-right: 0;
+  margin-right: -15px;
+}
+
+.sort__blogs .sort__blogs__head .sort__blogs--h::after {left: auto;right: 0;}
+
+.owl-carousel.blog-posts__slider {direction: ltr;}
+
+.post .post__header .post__head::after {
+  left: auto;
+  right: 0;
+  bottom: -8px;
+}

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740.141" height="439.64" viewBox="0 0 740.141 439.64">
+  <g id="Group_396" data-name="Group 396" transform="translate(-421 165.238)" opacity="0.07">
+    <g id="Polygon_1" data-name="Polygon 1" transform="translate(684.098 121.667) rotate(-45)" fill="none">
+      <path d="M124.5,0,249,216H0Z" stroke="none"/>
+      <path d="M 124.5 2.002487182617188 L 1.7305908203125 215 L 247.2694091796875 215 L 124.5 2.002487182617188 M 124.5 0 L 249 216 L 0 216 L 124.5 0 Z" stroke="none" fill="#11044c"/>
+    </g>
+    <g id="Polygon_3" data-name="Polygon 3" transform="matrix(0.719, 0.695, -0.695, 0.719, 525.955, 78.088)" fill="none">
+      <path d="M47,0,94,82H0Z" stroke="none"/>
+      <path d="M 47 2.010940551757813 L 1.725784301757813 81 L 92.27421569824219 81 L 47 2.010940551757813 M 47 0 L 94 82 L 0 82 L 47 0 Z" stroke="none" fill="#11044c"/>
+    </g>
+    <g id="Polygon_4" data-name="Polygon 4" transform="matrix(0.94, 0.342, -0.342, 0.94, 544.779, 54.579)" fill="none">
+      <path d="M15.5,0,31,27H0Z" stroke="none"/>
+      <path d="M 15.50000095367432 2.008563995361328 L 1.727138519287109 26 L 29.27286338806152 26 L 15.50000095367432 2.008563995361328 M 15.50000095367432 0 L 31 27 L 1.9073486328125e-06 27 L 15.50000095367432 0 Z" stroke="none" fill="#11044c"/>
+    </g>
+    <g id="Polygon_2" data-name="Polygon 2" transform="matrix(0.966, -0.259, 0.259, 0.966, 996.04, 137.919)" fill="none">
+      <path d="M20.5,0,41,36H0Z" stroke="none"/>
+      <path d="M 20.5 2.020854949951172 L 1.720207214355469 35 L 39.27979278564453 35 L 20.5 2.020854949951172 M 20.5 0 L 41 36 L 0 36 L 20.5 0 Z" stroke="none" fill="#11044c"/>
+    </g>
+    <path id="Path_2198" data-name="Path 2198" d="M10354.5,75.4l232.284-232.284" transform="translate(-9426 132)" fill="none" stroke="#11044c" stroke-width="1"/>
+    <path id="Path_2199" data-name="Path 2199" d="M10354.5,75.4l232.284-232.284" transform="translate(-9857 -8)" fill="none" stroke="#11044c" stroke-width="1"/>
+    <path id="Path_2200" data-name="Path 2200" d="M10354.5,75.4l232.284-232.284" transform="translate(-9917 28)" fill="none" stroke="#11044c" stroke-width="1"/>
+    <g id="Ellipse_313" data-name="Ellipse 313" transform="translate(1064 40)" fill="none" stroke="#11044c" stroke-width="1">
+      <circle cx="14.5" cy="14.5" r="14.5" stroke="none"/>
+      <circle cx="14.5" cy="14.5" r="14" fill="none"/>
+    </g>
+    <g id="Ellipse_314" data-name="Ellipse 314" transform="translate(1123 165)" fill="none" stroke="#11044c" stroke-width="1">
+      <circle cx="7.5" cy="7.5" r="7.5" stroke="none"/>
+      <circle cx="7.5" cy="7.5" r="7" fill="none"/>
+    </g>
+    <g id="Ellipse_315" data-name="Ellipse 315" transform="translate(421 85)" fill="none" stroke="#11044c" stroke-width="1">
+      <circle cx="6" cy="6" r="6" stroke="none"/>
+      <circle cx="6" cy="6" r="5.5" fill="none"/>
+    </g>
+  </g>
+</svg>
